@@ -23,3 +23,11 @@ octave --persist randu.m
 
 ## Do not forget the "--persist" or you will wee nothing
 ```
+
+You should see something like this:
+
+![RANDU_1](https://github.com/arnaudmeauzoone/RANDU_matlab_octave/blob/master/RANDU_1.png)
+
+Use the rotate button (upper left corner) to rotate and see the planes
+
+![RANDU_2](https://github.com/arnaudmeauzoone/RANDU_matlab_octave/blob/master/RANDU_2.png)
